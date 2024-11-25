@@ -1,0 +1,5 @@
+export const API_ENDPOINT = "http://localhost:8080/api/v1/user/"
+export const IMP_API = "https://www.omdbapi.com/?s=Guardians of the Galaxy&apikey=9058b67f"
+export const POPULAR_API = "https://www.omdbapi.com/?s=demon&apikey=9058b67f"
+export const TOP_API = "https://www.omdbapi.com/?s=hometown&apikey=9058b67f"
+export const UPC_API = "https://www.omdbapi.com/?s=kings&apikey=9058b67f"    
